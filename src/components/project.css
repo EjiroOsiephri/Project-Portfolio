@@ -1,0 +1,29 @@
+.api-card {
+  height: 250px;
+  overflow: hidden;
+  position: relative;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.truncate-text {
+  display: -webkit-box;
+  -webkit-line-clamp: 10;
+  line-clamp: 10;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  height: 60px; /* Adjust as needed */
+}
+
+.api-links {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+}
+
+.api-card:hover .api-links {
+  display: block;
+}

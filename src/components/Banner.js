@@ -81,7 +81,8 @@ export const Banner = () => {
                   </h1>
                   <p>
                     Ejiro is a full stack developer with extensive experience
-                    using Python, Django, Flask, PostgreSQL as well as Docker.
+                    using Python, Javascript, ReactJs, nodeJS, nestJS, nextJS,
+                    Django, Flask, PostgreSQL as well as Docker and Kubernetes.
                     Experienced in developing complex backend solutions and
                     attractive user interfaces. Ejiro has worked with
                     integrating Redis, Celery, AWS, and Elasticsearch into

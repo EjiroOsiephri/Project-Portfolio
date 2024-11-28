@@ -47,17 +47,23 @@ export const Skills = () => {
                 <div className="item">
                   <img src={meter1} alt="Backend Development" />
                   <h5>Backend Development</h5>
-                  <p>Python, Django, Flask, PostgreSQL</p>
+                  <p>
+                    Python, Django, nodeJs, nestJS Flask, PostgreSQL, MySql,
+                    SQLlite, MongoDB, prisma,typeORM
+                  </p>
                 </div>
                 <div className="item">
                   <img src={meter2} alt="Frontend Development" />
                   <h5>Frontend Development</h5>
-                  <p>React, TypeScript, JavaScript</p>
+                  <p>
+                    React, nextJS TypeScript, JavaScript, HTML, css, SCSS,
+                    TailwindCSS, bootstrap
+                  </p>
                 </div>
                 <div className="item">
                   <img src={meter3} alt="DevOps & CI/CD" />
                   <h5>DevOps & CI/CD</h5>
-                  <p>Docker, Jenkins, GitHub Actions</p>
+                  <p>Docker, Kubernetes, Jenkins, GitHub Actions</p>
                 </div>
                 <div className="item">
                   <img src={meter1} alt="API Integration" />
@@ -67,7 +73,10 @@ export const Skills = () => {
                 <div className="item">
                   <img src={meter2} alt="Database Management" />
                   <h5>Database Management</h5>
-                  <p>PostgreSQL, Redis, Elasticsearch</p>
+                  <p>
+                    PostgreSQL, Redis, Elasticsearch, MongoDB, Prisma, TypeOrm,
+                    MySQL, SQlite
+                  </p>
                 </div>
                 <div className="item">
                   <img src={meter3} alt="Cloud Computing" />
